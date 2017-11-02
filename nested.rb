@@ -86,8 +86,6 @@ def adding_matz
 		 	 :known_for => "Ruby",
 		 	 :languages => ["LISP", "C"]
 		  }
-
-			binding.pry
 end
 
 def changing_alan
